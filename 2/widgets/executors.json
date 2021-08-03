@@ -1,0 +1,10 @@
+[ {
+  "name" : "GitHub Actions",
+  "type" : "github",
+  "url" : "https://ZsoltiJ.github.io/ymltest",
+  "buildOrder" : 2,
+  "buildName" : "GitHub Actions Run #1094147023",
+  "buildUrl" : "https://github.com/ZsoltiJ/ymltest/actions/runs/1094147023",
+  "reportName" : "Allure Report with history",
+  "reportUrl" : "https://ZsoltiJ.github.io/ymltest/2/"
+} ]

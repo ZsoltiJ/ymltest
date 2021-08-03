@@ -1,0 +1,26 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "expected: <https://codecool.com/> but was: <https://codecool.com/hu/>",
+      "children" : [ {
+        "name" : "WebTest3()",
+        "uid" : "e986e2bd257e3250",
+        "parentUid" : "7de67859fb75519929b4ad774c2336f3",
+        "status" : "failed",
+        "time" : {
+          "start" : 1627998388171,
+          "stop" : 1627998391581,
+          "duration" : 3410
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "7de67859fb75519929b4ad774c2336f3"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ],
+  "name" : "categories"
+}
